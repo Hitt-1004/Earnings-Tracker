@@ -31,6 +31,4 @@ A Flutter application that provides users with an interactive earnings graph and
 
 ## Screens
 
-![My Image](Assets/Images/1.jpg) ![My Image](Assets/Images/2.jpg)
-![My Image](Assets/Images/3.jpg) ![My Image](Assets/Images/4.jpg)
-![My Image](Assets/Images/5.jpg)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;"> <img src="Assets/Images/1.jpg" alt="Screenshot 1" width="48%" style="margin-bottom: 10px;"/> <img src="Assets/Images/2.jpg" alt="Screenshot 2" width="48%" style="margin-bottom: 10px;"/> <img src="Assets/Images/3.jpg" alt="Screenshot 3" width="48%" style="margin-bottom: 10px;"/> <img src="Assets/Images/4.jpg" alt="Screenshot 4" width="48%" style="margin-bottom: 10px;"/> <img src="Assets/Images/5.jpg" alt="Screenshot 5" width="48%" style="margin-bottom: 10px;"/> </div> ```
