@@ -31,8 +31,6 @@ A Flutter application that provides users with an interactive earnings graph and
 
 ## Screens
 
-![My Image](Assets/Images/1.jpg)
-![My Image](Assets/Images/2.jpg)
-![My Image](Assets/Images/3.jpg)
-![My Image](Assets/Images/4.jpg)
+![My Image](Assets/Images/1.jpg) ![My Image](Assets/Images/2.jpg)
+![My Image](Assets/Images/3.jpg) ![My Image](Assets/Images/4.jpg)
 ![My Image](Assets/Images/5.jpg)
